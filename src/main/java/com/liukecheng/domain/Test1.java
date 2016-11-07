@@ -10,6 +10,7 @@ public class Test1 {
 		List<String> testList = new ArrayList<String>();
 		testList.add("1");
 		testList.add("2");
+		System.out.println("这是测试类,哈哈");
 		
 	}
 }
