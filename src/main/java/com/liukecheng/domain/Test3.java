@@ -1,5 +1,5 @@
 package com.liukecheng.domain;
 
-public class Test1 {
+public class Test3 {
 
 }
